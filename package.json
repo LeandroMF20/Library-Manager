@@ -1,0 +1,20 @@
+{
+  "name": "library_manager",
+  "version": "1.0.0",
+  "description": "Mini sistema CLI de empréstimos de livros de uma biblioteca, para treinar arquitetura hexagonal.",
+  "homepage": "https://github.com/LeandroMF20/Library-Manager#readme",
+  "bugs": {
+    "url": "https://github.com/LeandroMF20/Library-Manager/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeandroMF20/Library-Manager.git"
+  },
+  "license": "ISC",
+  "author": "Leandro Marques Ferreira",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
